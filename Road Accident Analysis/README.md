@@ -3,7 +3,7 @@
 
 ## Project Explanation
 
-![Atrrition DashBoard](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/main/HR%20Data%20Analytics%20Project-2/03052023-223557-REC%20(2).gif)
+![Atrrition DashBoard](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/main/Road%20Accident%20Analysis/road.gif)
 
 The Road Accident Analysis Dashboard is a technology that gives a visual representation of road accident data, allowing users to rapidly 
 and simply analyse and comprehend information. Key performance indicators (KPIs) such as the number of accidents, kinds of accidents, deaths,
