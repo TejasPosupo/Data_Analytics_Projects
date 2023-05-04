@@ -24,7 +24,7 @@ population.
 Analysis of Traffic Accidents Dashboards are useful tools for enhancing road safety because they provide complete and actionable information 
 that may be utilised to avoid accidents, save lives, and decrease injuries and property damage.
 
-##Topics Covered in this Project
+## Topics Covered in this Project
 - Import data in Power BI
 - Data Cleaning in Power BI
 - Data Modelling in Power BI
