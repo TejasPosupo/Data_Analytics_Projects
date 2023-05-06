@@ -3,7 +3,7 @@
 
 ## Project Explanation
 
-![IPL Analytics]()
+![IPL Analytics](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/main/IPL%20Analytics%20(2008-2022)/ezgif-4-c946e2163d.gif)
 
 An IPL (Indian Premier League) analysis dashboard is a tool used to visualize and analyze data related to the IPL. The IPL is a professional Twenty20 cricket league in India that takes place annually. The analysis dashboard can be used by cricket enthusiasts, analysts, journalists, and team owners to gain insights into various aspects of the league, such as player and team performance, match results, and audience engagement.
 
