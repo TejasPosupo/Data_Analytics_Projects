@@ -3,7 +3,7 @@
 
 ## Project Explanation
 
-![Atrrition DashBoard](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/main/Sales%20Insights%20Data%20Analysis%20Project/sales.gif)
+![Atrrition DashBoard](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/PowerBi_Projects/Sales%20Insights%20Data%20Analysis%20Project/sales.gif)
 
 Insights into Sales Data Analytics projects for brick and mortar businesses entail analysing data to get insights into consumer behaviour, product trends, and other factors that influence sales. Here are some examples of potential projects and how they can benefit a brick and mortar business.
 
