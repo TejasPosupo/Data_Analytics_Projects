@@ -3,7 +3,7 @@
 
 ## Project Explanation
 
-![Atrrition DashBoard](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/main/HR%20Data%20Analytics%20Project-2/03052023-223557-REC%20(2).gif)
+![Atrrition DashBoard](https://github.com/TejasPosupo/Data_Analytics_Projects/blob/PowerBi_Projects/HR%20Data%20Analytics%20Project-2/03052023-223557-REC%20(2).gif)
 
 -HR Analytics Attrition Dashboard is a visual representation of key metrics and data related to employee attrition. 
  The dashboard provides HR professionals with real-time insights into employee attrition, including the reasons for employee departure,
